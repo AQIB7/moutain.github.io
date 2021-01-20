@@ -1,0 +1,727 @@
+/*********************************(1112px)*******************************/
+@media screen and (max-width: 1112px) {
+  h5::before {
+    width: 342px;
+  }
+  h5::after {
+    width: 342px;
+  }
+  .chapter_2 .rotat_box {
+    margin-left: -98px;
+  }
+  .chapter_2 .paera {
+    margin: 72px 65px 40px;
+    -webkit-column-gap: 50px;
+            column-gap: 50px;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -90px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 358px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 463px;
+  }
+  .sect-3 {
+    bottom: -156rem;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 350px;
+    height: 294px;
+    top: 0;
+    left: -32px;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 415px;
+  }
+  .sect-4 .container .blog .jurnal-0 .b1 {
+    left: 423px;
+  }
+  .sect-4 .container .blog .jurnal-0 img {
+    width: 150px;
+    margin: 15px 0 0 265px;
+  }
+  .sect-4 .container .blog .line {
+    height: 584px;
+    left: 479px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 415px;
+  }
+  .sect-4 .container .blog .jurnal-1 .m1, .sect-4 .container .blog .jurnal-1 .m2 {
+    width: 150px;
+  }
+  .sect-4 .container .exp {
+    margin: 143px 0 0 360px;
+  }
+}
+
+/*********************************(1024px)*******************************/
+@media screen and (max-width: 1024px) {
+  h5 {
+    bottom: 83rem;
+  }
+  h5::before, h5 ::after {
+    width: 300px;
+  }
+  h5::after {
+    width: 300px;
+  }
+}
+
+/*********************************(900px)*******************************/
+@media screen and (max-width: 900px) {
+  .navbar .navbar-brand {
+    left: auto;
+  }
+  .navbar .navbar-nav li {
+    padding: 0 0 10px !important;
+  }
+  .navbar .navbar-nav li a::after {
+    left: 224px;
+  }
+  h5 {
+    margin: 0px 608px;
+    width: 190px;
+  }
+  h5::before {
+    width: 0;
+  }
+  h5::after {
+    width: 0;
+  }
+  .chapter_2 .rotat_box {
+    margin-left: -211px;
+  }
+  .chapter_2 .paera {
+    margin: 50px 0;
+  }
+  .sect-2 {
+    height: 77rem;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -211px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 237px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 340px;
+  }
+  .sect-3 {
+    bottom: -158rem;
+  }
+  .sect-3 .container .team_box {
+    margin: 0 -90px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 309px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape .content, .sect-3 .container .team_box .t-box-2 .chape .content, .sect-3 .container .team_box .t-box-3 .chape .content {
+    padding: 70px 43px 0;
+    font-size: 14px;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 315px;
+  }
+  .sect-4 .container .blog .jurnal-0 .b1 {
+    left: 323px;
+  }
+  .sect-4 .container .blog .jurnal-0 img {
+    width: 130px;
+    margin: 10px 0 0 185px;
+  }
+  .sect-4 .container .blog .line {
+    height: 524px;
+    left: 367px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 315px;
+  }
+  .sect-4 .container .blog .jurnal-1 .m1, .sect-4 .container .blog .jurnal-1 .m2 {
+    width: 125px;
+  }
+  .sect-4 .container .exp {
+    margin: 100px 0 0 230px;
+  }
+  .sect-5 {
+    top: 47rem;
+  }
+}
+
+/*********************************(800px)*******************************/
+@media screen and (max-width: 800px) {
+  h5 {
+    margin: 0px 562px;
+  }
+  .sect-3 .container .team_box {
+    margin: 0 -43px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 277px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape .content, .sect-3 .container .team_box .t-box-2 .chape .content, .sect-3 .container .team_box .t-box-3 .chape .content {
+    padding-top: 56px;
+  }
+}
+
+/*********************************(768px)*******************************/
+@media screen and (max-width: 768px) {
+  h5 {
+    bottom: 61rem;
+    margin: 0px 555px;
+  }
+  .sect-3 .container .team_box {
+    margin: 0 -29px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 263px;
+  }
+}
+
+/*********************************(720px)*******************************/
+@media screen and (max-width: 720px) {
+  h5 {
+    bottom: 37rem;
+    margin: 0px 433px;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -211px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 151px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 340px;
+  }
+  .sect-2 .container .paera-2 {
+    width: 549px;
+  }
+}
+
+/********************************(600px)***********************************/
+@media screen and (max-width: 600px) {
+  .navbar {
+    padding: 10px 0px 0px;
+  }
+  .navbar .navbar-nav li a::after {
+    left: 235px;
+  }
+  h5 {
+    margin: 0px 372px;
+  }
+  .chapter_2 .rotat_box {
+    margin-left: -306px;
+  }
+  .chapter_2 .paera {
+    -webkit-column-count: auto;
+            column-count: auto;
+  }
+  .chapter_2 .vr-line-2 {
+    top: 128px;
+  }
+  .sect-2 {
+    height: 85rem;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -306px;
+  }
+  .sect-2 .container .paera-2 {
+    width: 500px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 148px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 250px;
+  }
+  .sect-3 {
+    bottom: -184rem;
+    height: 85rem;
+    -webkit-clip-path: polygon(0 38%, 100% 0%, 100% 100%, 0 72%);
+            clip-path: polygon(0 38%, 100% 0%, 100% 100%, 0 72%);
+  }
+  .sect-3 .container .team_box {
+    margin: 100px -35px 0;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 208px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape .content, .sect-3 .container .team_box .t-box-2 .chape .content, .sect-3 .container .team_box .t-box-3 .chape .content {
+    padding-top: 50px;
+    font-size: 11px;
+  }
+  .sect-3 .container .icons {
+    margin-top: 145px;
+  }
+  .sect-4 {
+    top: 47rem;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 500px;
+  }
+  .sect-4 .container .blog .jurnal-0 .b1 {
+    display: none;
+  }
+  .sect-4 .container .blog .jurnal-0 img {
+    margin: 15px 0;
+  }
+  .sect-4 .container .blog .line {
+    display: none;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 500px;
+    margin: 0;
+  }
+  .sect-4 .container .blog .jurnal-1 .m1 {
+    margin-left: 0;
+  }
+  .sect-4 .container .blog .jurnal-1 .b2 {
+    display: none;
+  }
+  .sect-4 .container .exp {
+    margin: 105px 0 0 139px;
+  }
+  .sect-5 {
+    top: 55rem;
+  }
+  .sect-5 .container .story .s1 {
+    padding: 16px 20px;
+    font-size: 16px;
+  }
+}
+
+/********************************(540px)***********************************/
+@media screen and (max-width: 540px) {
+  .navbar .navbar-brand img {
+    width: 120px;
+  }
+  h5 {
+    margin: 0px 393px;
+    font-size: 14px !important;
+    width: 140px;
+    bottom: 681px;
+  }
+  .sect-3 {
+    bottom: -199rem;
+    height: 100rem;
+    -webkit-clip-path: polygon(0 32%, 100% 0%, 100% 100%, 0 100%);
+            clip-path: polygon(0 32%, 100% 0%, 100% 100%, 0 100%);
+  }
+  .sect-3 .container .team_box {
+    margin: 20px 50px 0;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 395px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape .content, .sect-3 .container .team_box .t-box-2 .chape .content, .sect-3 .container .team_box .t-box-3 .chape .content {
+    padding-top: 70px;
+    font-size: 16px;
+  }
+  .sect-3 .container .icons {
+    margin-top: 50px;
+  }
+  .sect-4 {
+    top: 75rem;
+  }
+  .sect-5 {
+    top: 80rem;
+  }
+}
+
+/********************************(480px)***********************************/
+@media screen and (max-width: 480px) {
+  h5 {
+    margin: 0px 316px;
+  }
+  .header p {
+    padding-top: 100px;
+  }
+  .header hr {
+    margin: 20px auto 0;
+  }
+  .header .text_3 {
+    margin-top: 30px;
+  }
+  .header .text_3 h6 {
+    font-size: 18px;
+    letter-spacing: 3px;
+  }
+  .header .text_3 h1 {
+    letter-spacing: 14px;
+  }
+  .header .vr-line {
+    height: 65px;
+  }
+  .chapter_2 .vr-line {
+    height: 57px;
+    margin: -17px auto 0;
+  }
+  .chapter_2 .c1 {
+    font-size: 5rem;
+  }
+  .chapter_2 h2 {
+    letter-spacing: 10px;
+    font-size: 2rem;
+  }
+  .chapter_2 .rotat_box {
+    margin-left: -345px;
+  }
+  .sect-2 .container .c2 {
+    font-size: 5rem;
+  }
+  .sect-2 .container .h3 {
+    letter-spacing: 10px;
+    font-size: 2rem;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -344px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 111px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 208px;
+  }
+  .sect-2 .container .paera-2 {
+    width: 370px;
+  }
+  .sect-3 {
+    bottom: -194rem;
+  }
+  .sect-3 .container .c3 {
+    font-size: 5rem;
+  }
+  .sect-3 .container .h4 {
+    letter-spacing: 10px;
+    font-size: 2rem;
+  }
+  .sect-4 .container .c4 {
+    font-size: 5rem;
+  }
+  .sect-4 .container .h5 {
+    letter-spacing: 10px;
+    font-size: 2rem;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 400px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 400px;
+  }
+  .sect-4 .container .exp {
+    width: 177px;
+    font-size: 13px;
+    margin: 91px 0 0 129px;
+  }
+  .sect-5 .container .story .s1 {
+    padding: 18px 13px;
+    font-size: 13px;
+  }
+}
+
+/********************************(414px)***********************************/
+@media screen and (max-width: 414px) {
+  .navbar .navbar-nav li a::after {
+    left: 165px;
+  }
+  h5 {
+    margin: 0 267px;
+    bottom: 696px;
+  }
+  .chapter_2 .rotat_box {
+    margin-left: -383px;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -385px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 76px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 177px;
+  }
+  .sect-3 {
+    bottom: -195rem;
+  }
+  .sect-3 .container .team_box {
+    margin: 20px 23px 0;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 337px;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 360px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 360px;
+  }
+  .sect-4 .container .exp {
+    margin: 75px 0 0 100px;
+  }
+  .sect-5 .container .story .s1 {
+    font-size: 11px;
+  }
+}
+
+/********************************(412px)***********************************/
+@media screen and (max-width: 412px) {
+  h5 {
+    bottom: 694px;
+  }
+}
+
+/********************************(375px)***********************************/
+@media screen and (max-width: 375px) {
+  .navbar .navbar-nav li a::after {
+    left: 145px;
+  }
+  h5 {
+    margin: 0 228px;
+    bottom: 774px;
+  }
+  .header .text_3 h6 {
+    font-size: 14px;
+  }
+  .header .text_3 h1 {
+    letter-spacing: 6px;
+  }
+  .header .vr-line {
+    height: 70px;
+  }
+  .chapter_2 .vr-line-2 {
+    width: 267px;
+  }
+  .sect-2 {
+    -webkit-clip-path: polygon(100% 17%, 100% 62%, 0 100%, 0 0);
+            clip-path: polygon(100% 17%, 100% 62%, 0 100%, 0 0);
+  }
+  .sect-2 .container .vr-line1 {
+    height: 157px;
+  }
+  .sect-2 .container .paera-2 {
+    width: 328px;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -385px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 59px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 157px;
+  }
+  .sect-2 .container .vr-line-2 {
+    width: 90px;
+    top: 178px;
+  }
+  .sect-3 {
+    bottom: -198rem;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 325px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 325px;
+  }
+  .sect-4 .container .exp {
+    margin: 75px 0 0 70px;
+  }
+  .sect-5 .container .story {
+    margin-top: 50px;
+    display: -ms-grid;
+    display: grid;
+  }
+  .sect-5 .container .story .s1 {
+    font-size: 15px;
+  }
+}
+
+/********************************(360px)***********************************/
+@media screen and (max-width: 360px) {
+  .navbar .navbar-nav li a::after {
+    left: 136px;
+  }
+  h5 {
+    margin: 0 212px;
+    bottom: 603px;
+  }
+  .chapter_2 .rotat_box {
+    margin-left: -415px;
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -410px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 50px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 150px;
+  }
+  .sect-2 .container .paera-2 {
+    width: 308px;
+  }
+  .sect-3 {
+    bottom: -200rem;
+  }
+  .sect-3 .container .team_box {
+    margin: 20px 9px 0;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 332px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape .content, .sect-3 .container .team_box .t-box-2 .chape .content, .sect-3 .container .team_box .t-box-3 .chape .content {
+    padding-top: 70px;
+    font-size: 14px;
+  }
+}
+
+/********************************(320px)***********************************/
+@media screen and (max-width: 320px) {
+  .navbar .navbar-nav li a::after {
+    left: 115px;
+  }
+  h5 {
+    margin: 0 173px;
+    bottom: 532px;
+  }
+  .header .text_3 h6 {
+    font-size: 11px;
+  }
+  .header .text_3 h1 {
+    letter-spacing: 1px;
+    margin-left: 0rem;
+  }
+  .chapter_2 .c1 {
+    font-size: 4rem;
+  }
+  .chapter_2 h2 {
+    letter-spacing: 5px;
+  }
+  .chapter_2 .rotat_box {
+    margin-left: -437px;
+  }
+  .sect-2 {
+    height: 95rem;
+    -webkit-clip-path: polygon(100% 17%, 100% 67%, 0 100%, 0 0);
+            clip-path: polygon(100% 17%, 100% 67%, 0 100%, 0 0);
+  }
+  .sect-2 .container .rotat_box-1 {
+    margin-left: -445px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 30px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 130px;
+  }
+  .sect-2 .container .paera-2 {
+    width: 255px;
+  }
+  .sect-2 .container .vr-line-2 {
+    width: 155px;
+    top: 247px;
+  }
+  .sect-3 {
+    bottom: -212rem;
+  }
+  .sect-3 .container .vr-line2 {
+    height: 337px;
+  }
+  .sect-3 .container .team_box {
+    margin: 20px 0 0;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 278px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape .content, .sect-3 .container .team_box .t-box-2 .chape .content, .sect-3 .container .team_box .t-box-3 .chape .content {
+    padding-top: 68px;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 280px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 280px;
+  }
+  .sect-4 .container .exp {
+    margin: 75px 0 0 45px;
+  }
+  .sect-5 .container .story {
+    margin-top: 25px;
+  }
+}
+
+/********************************(300px)***********************************/
+@media screen and (max-width: 300px) {
+  .navbar .navbar-nav li a::after {
+    left: 102px;
+  }
+  h5 {
+    margin: 0 133px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 18px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 119px;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 250px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 250px;
+  }
+  .sect-4 .container .exp {
+    margin: 75px 0 0 38px;
+  }
+}
+
+/********************************:280px)***********************************/
+@media screen and (max-width: 280px) {
+  .navbar .navbar-nav li a::after {
+    left: 100px;
+  }
+  h5 {
+    margin: 0 134px;
+    bottom: 615px;
+  }
+  .chapter_2 h2 {
+    letter-spacing: 4px;
+  }
+  .sect-2 .container .h3 {
+    letter-spacing: 9px;
+  }
+  .sect-2 .container .paera-2 {
+    width: 241px;
+  }
+  .sect-2 .container .logodesin::after {
+    left: 9px;
+  }
+  .sect-2 .container .logodesin i {
+    left: 108px;
+  }
+  .sect-3 {
+    bottom: -216rem;
+  }
+  .sect-3 .container .h4 {
+    letter-spacing: 8px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape img, .sect-3 .container .team_box .t-box-2 .chape img, .sect-3 .container .team_box .t-box-3 .chape img {
+    width: 245px;
+  }
+  .sect-3 .container .team_box .t-box-1 .chape .content, .sect-3 .container .team_box .t-box-2 .chape .content, .sect-3 .container .team_box .t-box-3 .chape .content {
+    padding-top: 75px;
+    font-size: 11px;
+  }
+  .sect-4 .container .blog .jurnal-0 .v1 {
+    width: 238px;
+  }
+  .sect-4 .container .blog .jurnal-1 .v2 {
+    width: 238px;
+  }
+  .sect-4 .container .exp {
+    margin: 75px 0 0 28px;
+  }
+}
+/*# sourceMappingURL=media-query.css.map */
